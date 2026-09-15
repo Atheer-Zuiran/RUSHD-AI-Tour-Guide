@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1006539716517",
+    "project_id": "rushd-app-ad096",
+    "storage_bucket": "rushd-app-ad096.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006539716517:android:9ac1d55d48f3b8d52cda4c",
+        "android_client_info": {
+          "package_name": "com.example.rushed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRRG2LXx8TKP0yZWKndXVG1O3S4UOTnNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
