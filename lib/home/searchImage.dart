@@ -380,7 +380,7 @@ class _SearchImageState extends State<SearchImage> {
   // دالة لتوليد المحتوى من الصورة المختارة
   Future<void> generateContent(File _file) async {
     // مفتاح API للوصول إلى خدمة Google Cloud
-    String apiKey = "AIzaSyAnQ8d2AtSFc7MFd2ZOyDEeM5yTuuODDGM";
+    String apiKey = "YOUR_API_KEY_HERE";
 
     // قراءة الصورة كملف بايت
     final bytes = await File(_file.path).readAsBytes();
