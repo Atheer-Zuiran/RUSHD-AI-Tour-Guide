@@ -50,7 +50,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBRRG2LXx8TKP0yZWKndXVG1O3S4UOTnNo',
+    apiKey: 'YOUR_API_KEY_HERE',
     appId: '1:1006539716517:android:9ac1d55d48f3b8d52cda4c',
     messagingSenderId: '1006539716517',
     projectId: 'rushd-app-ad096',
