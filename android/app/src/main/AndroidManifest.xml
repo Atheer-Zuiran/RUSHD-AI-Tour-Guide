@@ -60,5 +60,5 @@
         </intent>
     </queries>
      <meta-data android:name="com.google.android.geo.API_KEY"
-android:value="AIzaSyBpLzaDvyWfvVvxD9xO3fM1i5FfCbjJ9nE"/>
+android:value="YOUR_API_KEY_HERE"/>
 </manifest>
